@@ -1,2 +1,13 @@
-# cache and other artifacts produced by Lean's Lake build tool
+# Lean build output
 .lake/
+lake-packages/
+
+# Python
+__pycache__/
+*.pyc
+
+# LaTeX / tectonic intermediates
+*.aux
+*.log
+*.out
+*.toc
