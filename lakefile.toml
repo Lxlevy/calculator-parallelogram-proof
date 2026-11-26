@@ -1,0 +1,5 @@
+name = "parallelogram"
+defaultTargets = ["Parallelogram"]
+
+[[lean_lib]]
+name = "Parallelogram"
